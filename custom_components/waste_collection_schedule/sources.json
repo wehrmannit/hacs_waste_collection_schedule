@@ -7758,6 +7758,14 @@
       "id": "abfallnavi_de"
     },
     {
+      "title": "Stadt Spenge",
+      "module": "ics",
+      "default_params": {
+        "regex": "SP (.*): Spenge"
+      },
+      "id": "ics_spenge_de"
+    },
+    {
       "title": "Stadt Unterschlei\u00dfheim",
       "module": "awido_de",
       "default_params": {
@@ -10329,6 +10337,12 @@
       "module": "cardiff_gov_uk",
       "default_params": {},
       "id": "cardiff_gov_uk"
+    },
+    {
+      "title": "Carmarthenshire County Council",
+      "module": "carmarthenshire_gov_wales",
+      "default_params": {},
+      "id": "carmarthenshire_gov_wales"
     },
     {
       "title": "Central Bedfordshire Council",
