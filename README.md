@@ -347,6 +347,7 @@ If your service provider is not listed, feel free to open a [source request issu
 - [Kuchl](/doc/source/citiesapps_com.md) / kuchl.net
 - [Kundl](/doc/ics/muellapp_com.md) / muellapp.com
 - [Kössen](/doc/ics/muellapp_com.md) / muellapp.com
+- [Köflach](/doc/ics/koeflach.md) / koeflach.at
 - [Köstendorf](/doc/ics/muellapp_com.md) / muellapp.com
 - [Kötschach-Mauthen](/doc/source/citiesapps_com.md) / koetschach-mauthen.gv.at
 - [Kötschach-Mauthen](/doc/ics/muellapp_com.md) / muellapp.com

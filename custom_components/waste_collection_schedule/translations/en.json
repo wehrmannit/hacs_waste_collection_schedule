@@ -15331,6 +15331,32 @@
         "data_description": {
           "uprn": "An easy way to discover your Unique Property Reference Number (UPRN) is by going to https://www.findmyaddress.co.uk/ and entering in your address details."
         }
+      },
+      "args_koeflach_at": {
+        "title": "Configure Source",
+        "description": "Configure your Service Provider. More details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/koeflach_at.md",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "street": "Street",
+          "mfh": "mfh"
+        },
+        "data_description": {
+          "calendar_title": "A more readable or user-friendly name for the waste calendar. If nothing is specified, the name of the source will be used.",
+          "street": "Please enter the street as indicated in the PDF file of the City of Köflach. Also specify if it is a multi-family house or not."
+        }
+      },
+      "reconfigure_koeflach_at": {
+        "title": "Reconfigure Source",
+        "description": "Configure your Service Provider. More details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/koeflach_at.md",
+        "data": {
+          "calendar_title": "Calendar Title",
+          "street": "Street",
+          "mfh": "mfh"
+        },
+        "data_description": {
+          "calendar_title": "A more readable or user-friendly name for the waste calendar. If nothing is specified, the name of the source will be used.",
+          "street": "Please enter the street as indicated in the PDF file of the City of Köflach. Also specify if it is a multi-family house or not."
+        }
       }
     },
     "error": {

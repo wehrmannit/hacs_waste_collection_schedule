@@ -8,11 +8,11 @@ logger:
 # Change these config to your needs
 waste_collection_schedule:
   sources:
-    - name: muellmax_de
+    - name: koeflach_at
       args:
         service: Rsa
-        mm_frm_ort_sel: Alfter
-        mm_frm_str_sel: Ahrweg (105-Ende/94-Ende)
+        street: Ackerweg
+        mfh: False
 
 # If you need to debug uncomment the line below (doc: https://www.home-assistant.io/integrations/debugpy/)
-#debugpy:
+debugpy:

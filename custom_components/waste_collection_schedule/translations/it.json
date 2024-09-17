@@ -15317,6 +15317,32 @@
         "data_description": {
           "uprn": "Un modo facile per scoprire il tuo Numero di Riferimento Proprietà Unica (UPRN) è andare su https://www.findmyaddress.co.uk/ e inserire i dettagli del tuo indirizzo."
         }
+      },
+      "args_koeflach_at": {
+        "title": "Configura la fonte",
+        "description": "Configura il tuo Service Provider. Maggiori dettagli: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/koeflach_at.md",
+        "data": {
+          "calendar_title": "Titolo del calendario",
+          "street": "Via",
+          "mfh": "mfh"
+        },
+        "data_description": {
+          "calendar_title": "Un nome più leggibile o user-friendly per il calendario dei rifiuti. Se non specificato, verrà utilizzato il nome della fonte.",
+          "street": "Inserisci la via come riportata nel file PDF del Comune di Köflach. Indica anche se si tratta di un condominio o meno."
+        }
+      },
+      "reconfigure_koeflach_at": {
+        "title": "Riconfigura la fonte",
+        "description": "Configura il tuo Service Provider. Maggiori dettagli: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/koeflach_at.md",
+        "data": {
+          "calendar_title": "Titolo del calendario",
+          "street": "Via",
+          "mfh": "mfh"
+        },
+        "data_description": {
+          "calendar_title": "Un nome più leggibile o user-friendly per il calendario dei rifiuti. Se non specificato, verrà utilizzato il nome della fonte.",
+          "street": "Inserisci la via come riportata nel file PDF del Comune di Köflach. Indica anche se si tratta di un condominio o meno."
+        }
       }
     },
     "error": {

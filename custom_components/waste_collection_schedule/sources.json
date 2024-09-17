@@ -1971,6 +1971,12 @@
       "id": "ics_muellapp_com"
     },
     {
+      "title": "K\u00f6flach",
+      "module": "koeflach_at",
+      "default_params": {},
+      "id": "ics_koeflach_at"
+    },
+    {
       "title": "K\u00f6stendorf",
       "module": "ics",
       "default_params": {},
